@@ -1,5 +1,3 @@
- src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Venom-TEST-BOTS&repo=Lily2.0_Repo&theme=flag-india)
 
 [![GIF](https://github.com/Venom-TEST-BOTS/blob/main/Venom-TEST-BOTS.gif)](https://github.com/Venom-TEST-BOTS)
