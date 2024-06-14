@@ -30,5 +30,5 @@ for filename in os.listdir(r"./strings/langs/"):
     try:
         languages_present[language_name] = languages[language_name]["name"]
     except:
-        print("ᴛᴇɴsɪᴏɴ ɴᴀ ʟᴏ ʀᴇsᴛᴀʀᴛ ᴋᴀʀᴏ ғɪx ʜᴏ ᴊʏᴇɢᴀ ɪssᴜᴇ ɴʜɪ ʜᴏᴛᴀ ᴛᴏʜ ᴅᴍ ᴋᴀʀᴏ @its_Aryaan ʏᴀʜᴀ.")
+        print("ᴛᴇɴsɪᴏɴ ɴᴀ ʟᴏ ʀᴇsᴛᴀʀᴛ ᴋᴀʀᴏ ғɪx ʜᴏ ᴊʏᴇɢᴀ ɪssᴜᴇ ɴʜɪ ʜᴏᴛᴀ ᴛᴏʜ ᴅᴍ ᴋᴀʀᴏ @DARK_4ST ʏᴀʜᴀ.")
         exit()
