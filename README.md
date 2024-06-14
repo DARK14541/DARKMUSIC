@@ -1,4 +1,3 @@
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Venom-TEST-BOTS&repo=Lily2.0_Repo&theme=flag-india)
 
 [![GIF](https://github.com/Venom-TEST-BOTS/blob/main/Venom-TEST-BOTS.gif)](https://github.com/Venom-TEST-BOTS)
    [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Venom-TEST-BOTS "Lily2.0_Repo")](https://github-stats-alpha.vercel.app/api?username=Venom-TEST-BOTS "Lily2.0_Repo")
