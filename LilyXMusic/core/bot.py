@@ -8,7 +8,7 @@ from ..logging import LOGGER
 
 class Anony(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"𝐋ɪʟʏ𝐱𝐌ᴜsɪᴄ 𝐒ᴛᴀʀᴛ 𝐇ᴏ 𝐑ᴀʜᴀ 𝐁ᴀʙᴇ...")
+        LOGGER(__name__).info(f"Dark𝐱𝐌ᴜsɪᴄ 𝐒ᴛᴀʀᴛ 𝐇ᴏ 𝐑ᴀʜᴀ 𝐁ᴀʙᴇ...")
         super().__init__(
             name="LilyXMusic",
             api_id=config.API_ID,
@@ -48,7 +48,7 @@ class Anony(Client):
                 "𝐁sᴅᴋ 𝐁ᴏᴛ 𝐊ᴏ 𝐋ᴏɢ 𝐆ʀᴏᴜᴘ 𝐌ᴇ 𝐀ᴅᴍɪɴ 𝐁ᴀɴᴀʏᴀ 𝐘ᴀ 𝐍ʜɪ?."
             )
             exit()
-        LOGGER(__name__).info(f"𝐋ɪʟʏ𝐱𝐌ᴜsɪᴄ 𝐒ᴛᴀʀᴛᴇᴅ{self.name}")
+        LOGGER(__name__).info(f"Dark𝐱𝐌ᴜsɪᴄ 𝐒ᴛᴀʀᴛᴇᴅ{self.name}")
 
     async def stop(self):
         await super().stop()
