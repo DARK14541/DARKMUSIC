@@ -1,7 +1,3 @@
-
-[![GIF](https://github.com/Venom-TEST-BOTS/blob/main/Venom-TEST-BOTS.gif)](https://github.com/Venom-TEST-BOTS)
-   [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Venom-TEST-BOTS "Lily2.0_Repo")](https://github-stats-alpha.vercel.app/api?username=Venom-TEST-BOTS "Lily2.0_Repo")
-
 <p align="center">
   <img src="https://graph.org/file/1f05ea59a08727a9ea01e.jpg">
 </p>
