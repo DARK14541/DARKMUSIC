@@ -38,7 +38,7 @@ HELP_3 = """
 <b>-assistant</b> : 𝐁ʀᴏᴀᴅᴄᴀsᴛ 𝐘ᴏᴜʀ 𝐌ᴇssᴀɢᴇ 𝐅ʀᴏᴍ 𝐓ʜᴇ 𝐀ssɪᴛᴀɴᴛ 𝐀ᴄᴄᴏᴜɴᴛ 𝐎ғ 𝐓ʜᴇ 𝐁ᴏᴛ.
 <b>-nobot</b> : 𝐅ᴏʀᴄᴇs 𝐓ʜᴇ 𝐁ᴏᴛ 𝐓ᴏ 𝐍ᴏᴛ 𝐁ʀᴏᴀᴅᴄᴀsᴛ 𝐓ʜᴇ 𝐌ᴇssᴀɢᴇ..
 
-<b>𝐄xᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ˹ 𝐋𝐢𝐥𝐲 ✘ 𝐌𝐮𝐬𝐢𝐜 ˼ 𝐓ᴇsᴛɪɴɢ 𝐁ʀᴏᴀᴅᴄᴀsᴛ</code>
+<b>𝐄xᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ˹ DARK ✘ 𝐌𝐮𝐬𝐢𝐜 ˼ 𝐓ᴇsᴛɪɴɢ 𝐁ʀᴏᴀᴅᴄᴀsᴛ</code>
 """
 
 HELP_4 = """<u><b>𝐂ʜᴀᴛ 𝐁ʟᴀᴄᴋʟɪsᴛ 𝐅ᴇᴀᴛᴜʀᴇ :</b></u> [𝐎ɴʟʏ 𝐅ᴏʀ 𝐒ᴜᴅᴏᴇʀs]
