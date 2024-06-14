@@ -39,7 +39,7 @@ def git():
         UPSTREAM_REPO = config.UPSTREAM_REPO
     try:
         repo = Repo()
-        LOGGER(__name__).info(f"𝐆ɪᴛ 𝐂ʟɪᴇɴᴛ 𝐅ᴏᴜɴᴅ [𝐕ᴇɴᴏᴍ 𝐃ᴇᴘʟᴏʏᴇʀ]")
+        LOGGER(__name__).info(f"𝐆ɪᴛ 𝐂ʟɪᴇɴᴛ 𝐅ᴏᴜɴᴅ [𝐃𝐚𝐫𝐤 𝐃ᴇᴘʟᴏʏᴇʀ]")
     except GitCommandError:
         LOGGER(__name__).info(f"𝐈ɴᴠᴀʟɪᴅ 𝐆ɪᴛ 𝐂ᴏᴍᴍᴀɴᴅ")
     except InvalidGitRepositoryError:
